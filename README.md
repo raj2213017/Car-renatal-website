@@ -15,7 +15,7 @@ Welcome to the Car Rental Website! This web application allows users to browse, 
 
 ## Technologies Used
 
-- Frontend: HTML, CSS, JavaScript (React/Vue/Angular)
+- Frontend: HTML, CSS, JavaScript 
 
 
 For any inquiries, please reach out to:
