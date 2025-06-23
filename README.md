@@ -8,6 +8,9 @@ Welcome to the Car Rental Website! This web application allows users to browse, 
 - Search & Filter Options: Easily find cars based on your preferences, such as vehicle type, rental price, and pickup location.
 - Booking System: Reserve your chosen vehicle in real-time with an easy-to-use booking interface. Users can select rental dates, pickup/drop-off locations, and additional services.
 
+![Car Image](assets/Rental1.png)
+
+
 ## Technologies Used
 
 - Frontend: HTML, CSS, JavaScript (React/Vue/Angular)
