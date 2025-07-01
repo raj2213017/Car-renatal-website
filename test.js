@@ -6,7 +6,7 @@ menuBtn.addEventListener('click', () => {
   navLinks.classList.toggle('active');
 });
 
-// Swiper Initialization
+// Swiper initialization
 const swiper = new Swiper('.swiper', {
   direction: 'horizontal',
   loop: true,
