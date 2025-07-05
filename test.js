@@ -34,8 +34,6 @@ const swiper = new Swiper('.swiper', {
   },
 });
 
-
-// ScrollReveal animation
 ScrollReveal().reveal('.section__header, .range__card, .select__card, .story__card, .footer__col', {
   delay: 200,
   duration: 800,
